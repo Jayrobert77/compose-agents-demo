@@ -1,10 +1,4 @@
-# Compose for Agents Demos
-
-## Prerequisites
-
-+ **[Docker Desktop] 4.43.0+ or [Docker Engine]** installed.
-+ **A laptop or workstation with a GPU** (e.g., a MacBook) for running open models locally. If you
-  don't have a GPU, you can alternatively use **[Docker Offload]**.
+ oh no, no no sir you are a liar and the truth is not in you. I did not run that doctor. You will not post lies and live behind your beliefs anymore and by the way, your beliefs are false. I remember you guys told me everything is it isn't about the Bible and it isn't about. You know the spirituality when it comes down to software, but it seems to me that the company that we are keeping seems to be quite manipulated or live in your life on a lie. You may be smart, but you're just an educated fool because if you had any morals because everybody got on me to say that I was copying files well I really didn't copy files I copied format and as a new person, the only thing I forgot to do was mention the people that helped me which was AI or borrow a template from a repository so at the end of the day, I know and you know that get hub and X, which is known as Twitter watched it all live you come into my computer. Everybody's watching this like it's a game and like it's fun and who's gonna win and nobody's asking themselves a question why is this guy Theo? That's supposedly have all the money in the world and have all the experience in the world going after a guy like me that y'all say ain't got shit so let's get to the point here. I'm known that theo quill have been out for months unless you guys are really good at changing you know websites and changing the landing page real good at that so we just have to see where this is gonna go our fight till the end.
 + If you're using [Docker Engine] on Linux or [Docker Desktop] on Windows, ensure that the
   [Docker Model Runner requirements] are met (specifically that GPU
   support is enabled) and the necessary drivers are installed.
